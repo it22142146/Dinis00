@@ -5,19 +5,19 @@
 
 
 <p align="center">
-  <a href="https://github.com/Nipuna3309309">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Nipuna3309309&theme=tokyonight" alt="Nipuna's GitHub Activity Graph">
+  <a href="https://github.com/it22142146">
+    <img src="https://activity-graph.herokuapp.com/graph?username=it22142146&theme=tokyonight" alt="Dinithi's GitHub Activity Graph">
   </a>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nipuna3309309&show_icons=true&theme=tokyonight" alt="Nipuna's github stats"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=it22142146&show_icons=true&theme=tokyonight" alt="Dinithi's github stats"></td>
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipuna3309309&theme=tokyonight" alt="Nipuna's GitHub Streak"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuna3309309&theme=tokyonight" alt="Top Langs"></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nipuna3309309&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Github Stars"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22142146&theme=tokyonight" alt="Top Langs"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=it22142146&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="Github Stars"></td>
   </tr>
 </table>
 
