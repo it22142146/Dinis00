@@ -13,7 +13,7 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=it22142146&show_icons=true&theme=tokyonight" alt="Dinithi's github stats"></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipuna3309309&theme=tokyonight" alt="Nipuna's GitHub Streak"></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=it22142146&theme=tokyonight" alt="Dinithi's GitHub Streak"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22142146&theme=tokyonight" alt="Top Langs"></td>
@@ -64,8 +64,8 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="https://www.buymeacoffee.com/Nipuna3309309" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nipuna" />
+  <a href="https://www.buymeacoffee.com/it22142146" target="_blank">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dinithi" />
   </a>
 </p>
 <br><br>
