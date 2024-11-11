@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinithi</h1>
-<h3 align="center">A passionate datascience enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate data science enthusiast from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22142146&label=Profile%20views&color=0e75b6&style=flat" alt="dinithi" /> </p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=it22142146&label=Profile%20views&color=0e75b6&style=flat" alt="dinithi" /> 
+</p>
 
 <p align="center">
   <a href="https://github.com/it22142146">
@@ -23,6 +24,10 @@
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card">
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/it22142146" alt="GitHub Contribution Calendar">
 </p>
 
 - 🔭 I’m currently working on **mern**
