@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinithi</h1>
 <h3 align="center">A passionate datascience enthusiast from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nipuna&label=Profile%20views&color=0e75b6&style=flat" alt="nipuna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22142146&label=Profile%20views&color=0e75b6&style=flat" alt="dinithi" /> </p>
 
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **java**
 
-- 📫 How to reach me **it22154576@my.sliit.lk**
+- 📫 How to reach me **it22142146@my.sliit.lk**
 
 - ⚡ Fun fact **call me Scorpion**
 
