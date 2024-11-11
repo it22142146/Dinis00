@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinith</h1>
+<h1 align="center">Hi 👋, I'm Dinithi</h1>
 <h3 align="center">A passionate datascience enthusiast from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nipuna&label=Profile%20views&color=0e75b6&style=flat" alt="nipuna" /> </p>
